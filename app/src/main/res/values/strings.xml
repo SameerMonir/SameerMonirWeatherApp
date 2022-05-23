@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SameerMonirWeatherApp</string>
+    <string name="c">°C</string>
+    <string name="phoenix">Phoenix</string>
+</resources>
